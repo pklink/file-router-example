@@ -22,6 +22,6 @@ try {
     $router->handleRoute($route);
 } catch (\FileRouter\Exception\Route\DoesNotExist $e) {
     $router->handleRoute('404');
-} catch (\FileRouter\Exception\File\IsNotInSourcePath $e) {
+} catch (\FileRouter\Exception\Route\IsNotInSourcePath $e) {
     $router->handleRoute('403');
 }
