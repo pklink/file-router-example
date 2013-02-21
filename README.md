@@ -1,4 +1,3 @@
-file-router-example
-===================
+# FileRouter example app
 
-Example for http://blog.klinks.info
+For [http://blog.klinks.info/kleine-webapp-mit-dem-filerouter/]
