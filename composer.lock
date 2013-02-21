@@ -1,18 +1,18 @@
 {
-    "hash": "b41e5bcce1e7e45278831793c246f5ba",
+    "hash": "6a5ffdcf7866e241295c0a1988c1c94e",
     "packages": [
         {
             "name": "pklink/file-router",
-            "version": "0.2",
+            "version": "0.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pklink/file-router.git",
-                "reference": "0.2"
+                "reference": "0.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pklink/file-router/zipball/0.2",
-                "reference": "0.2",
+                "url": "https://api.github.com/repos/pklink/file-router/zipball/0.2.1",
+                "reference": "0.2.1",
                 "shasum": ""
             },
             "require": {
@@ -22,7 +22,7 @@
                 "apigen/apigen": "dev-master",
                 "phpunit/phpunit": "3.7.*@dev"
             },
-            "time": "2013-02-21 13:38:04",
+            "time": "2013-02-21 15:56:55",
             "type": "library",
             "autoload": {
                 "psr-0": {

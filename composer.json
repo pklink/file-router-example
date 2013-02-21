@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pklink/file-router": "0.2.1"
+    }
+}
